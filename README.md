@@ -67,12 +67,13 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- Contenedor centrado para las dos primeras imágenes -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasrivera06&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=eliasrivera06&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+<!-- Imagen centrada debajo -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasrivera06&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
 </p>

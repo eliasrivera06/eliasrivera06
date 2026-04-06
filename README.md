@@ -30,10 +30,7 @@
 <img src="https://img.shields.io/badge/HTML5-1a1b26?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-1a1b26?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular"/>
 <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/SpringBoot-1a1b26?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/SQLServer-1a1b26?style=for-the-badge&logo=microsoftsqlserver"/>
@@ -59,7 +56,7 @@
 
 ### 🚀 Focus
 
-- 🔧 Building **Angular + Spring Boot applications**
+<!-- - 🔧 Building **Angular + Spring Boot applications**  -->
 - 📊 Learning **Python**
 - 🤖 Using **AI to improve development workflows**
 

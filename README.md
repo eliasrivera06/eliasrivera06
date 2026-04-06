@@ -68,17 +68,22 @@
 
 ### 📊 GitHub Stats
 
-<!-- Contenedor para los dos primeros gráficos en una fila -->
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasrivera06&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=eliasrivera06&theme=tokyonight&hide_border=true" height="170" />
+<!-- Contenedor padre centrado -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- Fila con dos imágenes -->
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasrivera06&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+    <img src="https://streak-stats.demolab.com?user=eliasrivera06&theme=tokyonight&hide_border=true" height="170" />
+  </div>
+
+  <!-- Imagen centrada debajo -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasrivera06&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  
 </div>
 
-<!-- Gráfico de lenguajes centrado debajo -->
-<div style="text-align: center;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasrivera06&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
-</div>
 ---
+
 ### 🎨 Interests
 
 Outside tech, 🎵 I enjoy music, 🎨 creating digital art, 🎮 playing videogames, and 📸 photography.

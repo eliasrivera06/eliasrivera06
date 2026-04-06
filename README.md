@@ -68,15 +68,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasrivera06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=eliasrivera06&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<!-- Contenedor para los dos primeros gráficos en una fila -->
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasrivera06&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=eliasrivera06&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasrivera06&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
-</p>
-
+<!-- Gráfico de lenguajes centrado debajo -->
+<div style="text-align: center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasrivera06&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+</div>
 ---
 ### 🎨 Interests
 
